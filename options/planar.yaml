@@ -9,7 +9,7 @@ arch:                                                       # architectural opti
 barf_c2f:                                                   # coarse-to-fine scheduling on positional encoding
 
 data:                                                       # data options
-    image_fname: data/star.jpg                               # path to image file
+    image_fname: data/star.png                               # path to image file
     image_size: [558,557]                                   # original image size
     patch_crop: [180,180]                                   # crop size of image patches to align
 
